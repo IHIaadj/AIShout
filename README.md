@@ -1,22 +1,19 @@
 # AIShout
-An efficient report generator using OpenAI Whisper and GPT-3 
+
+![](images/logo-white.png)
+
+AISHout is an open-source and efficient report generator based on OpenAI Whisper and GPT-3. The core of the application is written in Python and uses PyTorch as a deep learning framework. The mobile application is a flutter project that make use of the final python pipeline.
+
+This project is in a beta version. There is no stable release yet. 
+
+This project is a submission to the [OpenAI Hackathon](https://lablab.ai/event/openai-whisper-gpt3-codex-dalle2-hackathon). 
 
 ## Description
 our goal is to make it easier for you to create a meeting minute based on the original discussion and thus make the note taking more special. 
 
 ## Screenshots
 
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
-
-![](images/7.png)
-![](images/8.png)
-![](images/9.png)
+![](images/aishout.gif)
 
 ## Libraries/tools
 
