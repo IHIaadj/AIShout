@@ -11,6 +11,6 @@ our goal is to make it easier for you to create a meeting minute based on the or
 ## Libraries/tools
 
 ### Whisper
-![](images/whisper.png)
+![](images/whisper.jpg)
 ### GPT3
 ![](images/cover7.jpg)
