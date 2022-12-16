@@ -1,0 +1,640 @@
+Detected language: English
+[00:00.000 --> 00:05.200]  If it's like my family, I definitely have no subjects.
+[00:05.200 --> 00:09.400]  Hey Daniel, hey Eric.
+[00:09.400 --> 00:10.400]  Hello.
+[00:10.400 --> 00:11.400]  Welcome back Eric.
+[00:11.400 --> 00:12.400]  Thanks so much.
+[00:12.400 --> 00:15.400]  Yeah, it's great to be here.
+[00:15.400 --> 00:17.600]  Hi Virginia.
+[00:17.600 --> 00:18.600]  Hello.
+[00:18.600 --> 00:23.680]  Alright, let's kick off.
+[00:23.680 --> 00:28.040]  I wanted to start out with some reminders.
+[00:28.040 --> 00:32.720]  First we have a book club coming up on Inspired in four weeks on August 7th.
+[00:32.720 --> 00:35.000]  I just re-read it myself.
+[00:35.000 --> 00:36.560]  It's a good read.
+[00:36.560 --> 00:41.960]  It's highly aligned with how I think about product management and does a good job of
+[00:41.960 --> 00:48.840]  explaining why some of these things are important that I also believe to be important.
+[00:48.840 --> 00:52.920]  So it's nice to have another voice explaining all of that.
+[00:52.920 --> 00:54.200]  So please do read that.
+[00:54.200 --> 01:00.520]  I think I'm going to update the new hire onboarding doc and ask all the new hires to read this
+[01:00.520 --> 01:10.720]  as well so that everybody in the team is on the same page with respect to this book.
+[01:10.720 --> 01:12.320]  Let's see.
+[01:12.320 --> 01:19.000]  Reminder B. Remember there's this interview spreadsheet CS and sales have populated that
+[01:19.000 --> 01:23.700]  with a number of customer contacts for meetings.
+[01:23.700 --> 01:24.800]  Please do follow up on that.
+[01:24.800 --> 01:31.360]  I want to ensure goodwill with that team and follow up promptly with meetings with these
+[01:31.360 --> 01:37.960]  customers so that that team can see that we're taking advantage of it.
+[01:37.960 --> 01:40.080]  Third reminder, we've got a little engagement survey.
+[01:40.080 --> 01:46.200]  I'm going to run this once a month in Q3 just to take a pulse given all the change going
+[01:46.200 --> 01:47.200]  on.
+[01:47.200 --> 01:48.680]  Please do take a minute to fill it out.
+[01:48.680 --> 01:56.040]  It's five quick questions and then one free form where you can share whatever feedback
+[01:56.040 --> 01:57.040]  you have.
+[01:57.040 --> 02:00.240]  Fabian didn't receive it.
+[02:00.240 --> 02:04.520]  I'm pretty sure I went through my emails.
+[02:04.520 --> 02:08.360]  Maybe it's on my end, but I'm happy to fill it out.
+[02:08.360 --> 02:09.360]  You didn't get it.
+[02:09.360 --> 02:10.960]  I need to get it to you.
+[02:10.960 --> 02:11.960]  All right.
+[02:11.960 --> 02:14.640]  I'll ask Jessica to resend that to you.
+[02:14.640 --> 02:19.960]  Is anybody else in the same condition where you did not receive it?
+[02:19.960 --> 02:25.840]  I don't recall, but is there a way to put the link to the survey in the agenda?
+[02:25.840 --> 02:29.560]  Well, it's personal.
+[02:29.560 --> 02:33.920]  It's tied back to your user ID so we can track which team you're on and that kind of thing.
+[02:33.920 --> 02:39.000]  I do believe it's anonymous, but nevertheless, everyone has their own custom ID.
+[02:39.000 --> 02:43.220]  So I'll ask Jessica to send it to Fabian and Karina.
+[02:43.220 --> 02:44.220]  Anybody else?
+[02:44.220 --> 02:48.920]  I just hadn't seen it, Scott, but I searched my email real quick and it looks like that's
+[02:48.920 --> 02:50.400]  the title of the email.
+[02:50.400 --> 02:55.160]  So if you just search for that in your Gmail, you should be able to find it if you got it.
+[02:55.160 --> 02:58.160]  Pulse survey.
+[02:58.160 --> 02:59.160]  Okay.
+[02:59.160 --> 03:04.800]  If anybody else didn't get it, please ping me.
+[03:04.800 --> 03:08.140]  All right.
+[03:08.140 --> 03:16.240]  Next reminder, we have a goal of at least three customer interviews per PM.
+[03:16.240 --> 03:19.200]  There's an OKR issue out there.
+[03:19.200 --> 03:22.400]  If you haven't updated it lately, please do so.
+[03:22.400 --> 03:27.960]  And remember, we have three weeks until Q2 to hit our goal, so please do invest the time
+[03:27.960 --> 03:34.480]  to get those set up and get at least three done if you haven't already.
+[03:34.480 --> 03:36.200]  Next one, category maturity page.
+[03:36.200 --> 03:37.400]  Last week we talked about this.
+[03:37.400 --> 03:44.160]  Josh did a great job of creating some new views, one of which is sort of this flow chart
+[03:44.160 --> 03:48.000]  showing how mature we're going to be at a given point in time, which raised questions
+[03:48.000 --> 03:52.680]  about whether we were forecasting that accurately.
+[03:52.680 --> 04:00.680]  If you haven't already, please go in and either confirm that it's accurate or update it.
+[04:00.680 --> 04:05.900]  Thanks to Kenny for creating that issue.
+[04:05.900 --> 04:07.600]  Maybe add a direction maturity page.
+[04:07.600 --> 04:09.600]  You want to talk about that?
+[04:09.600 --> 04:10.600]  That was just me.
+[04:10.600 --> 04:11.600]  Just your reference.
+[04:11.600 --> 04:12.600]  I was adding the link there.
+[04:12.600 --> 04:13.600]  That's all.
+[04:13.600 --> 04:20.760]  If folks haven't seen the updates there for the charts, just check it out.
+[04:20.760 --> 04:28.160]  So it's a good way you can get a sense for like, you know, it's hard when it's in tabular
+[04:28.160 --> 04:32.920]  form, but when it's charted, it's much easier to see like if it's achievable or not based
+[04:32.920 --> 04:34.600]  on some of the trends.
+[04:34.600 --> 04:37.960]  And there's also if you scroll down, stage level trends as well.
+[04:37.960 --> 04:44.840]  So you can see how your stage in particular is trending or set to be trending.
+[04:44.840 --> 04:45.840]  Great.
+[04:45.840 --> 04:46.840]  Thanks, Josh.
+[04:46.840 --> 04:47.840]  All right.
+[04:47.840 --> 04:48.840]  Some team updates.
+[04:48.840 --> 04:49.840]  We hired a couple more PMs.
+[04:49.840 --> 04:52.640]  We got a good rhythm going on hiring.
+[04:52.640 --> 04:53.760]  We hired Gabe Weaver.
+[04:53.760 --> 04:59.040]  He originally came through the growth funnel, but we have a really strong candidate for
+[04:59.040 --> 05:00.280]  that fourth slot.
+[05:00.280 --> 05:04.640]  So we're going to target Gabe for a third managed PM.
+[05:04.640 --> 05:09.000]  The charter of that team is to be defined, but bottom line, we're going to have a third
+[05:09.000 --> 05:13.800]  group in the manage area and Gabe will lead that.
+[05:13.800 --> 05:19.440]  And then Dov Hershkovitz, we just hired him as the APM monitoring.
+[05:19.440 --> 05:27.120]  He's got a great background in monitoring and has most recently been at Elastic.
+[05:27.120 --> 05:30.440]  So thank you to everyone who's been involved in the hiring loop.
+[05:30.440 --> 05:39.120]  I know it's taking a lot of energy from everybody, but I think our hiring process continues to
+[05:39.120 --> 05:42.400]  pick up speed.
+[05:42.400 --> 05:52.440]  B2B worked with Christy and David Sakamoto to change some language around customer results.
+[05:52.440 --> 05:54.760]  Just wanted to make sure you all saw that.
+[05:54.760 --> 05:57.600]  So there's the MR.
+[05:57.600 --> 06:04.960]  On that one, the diff highlights what is new content, I believe, and there's one section
+[06:04.960 --> 06:05.960]  that is great.
+[06:05.960 --> 06:10.080]  I can totally understand why we would add that about prioritize ruthlessly.
+[06:10.080 --> 06:13.400]  But then the rest is, I guess, a bunch of formatting changes and I don't know if there's
+[06:13.400 --> 06:16.360]  new content in any of the dog fooding.
+[06:16.360 --> 06:21.880]  I guess, is the TLDR, the addition of that, prioritize ruthlessly or is there some other
+[06:21.880 --> 06:25.520]  point we're trying to make in this change?
+[06:25.520 --> 06:26.760]  It's been a little while.
+[06:26.760 --> 06:31.840]  I think there were a number of changes.
+[06:31.840 --> 06:36.960]  Before the handbook basically read that internal feedback is worth 10 times more than external
+[06:36.960 --> 06:37.960]  feedback.
+[06:37.960 --> 06:45.720]  And I understand why we want internal feedback because of dog fooding and using our own product.
+[06:45.720 --> 06:48.080]  It's a great channel for feedback.
+[06:48.080 --> 06:52.880]  But I think it was sending the message that customers weren't nearly as important as internal
+[06:52.880 --> 06:54.560]  opinion.
+[06:54.560 --> 07:00.200]  And both Christy and I want to move off of that position.
+[07:00.200 --> 07:05.500]  We should be customer first and treat our own teams as a customer.
+[07:05.500 --> 07:10.380]  But I don't want people to interpret that our own internal opinion is worth 10 times
+[07:10.380 --> 07:13.240]  more than a customer's opinion, if that makes sense.
+[07:13.240 --> 07:18.240]  So it was mostly language wherever that showed up in the handbook.
+[07:18.240 --> 07:19.240]  Gotcha.
+[07:19.240 --> 07:20.240]  Okay.
+[07:20.240 --> 07:24.960]  One comment I had on this is that some of the text seems like we should focus on core
+[07:24.960 --> 07:32.040]  competencies as opposed to new scope and as in we should focus on what we're best at.
+[07:32.040 --> 07:36.720]  So I'm not, anyways, that's one thought I had on this.
+[07:36.720 --> 07:39.440]  I don't remember that being the point of it.
+[07:39.440 --> 07:40.440]  Maybe it reads that way.
+[07:40.440 --> 07:41.440]  I don't know.
+[07:41.440 --> 07:43.960]  Maybe we need to suggest tweaks.
+[07:43.960 --> 07:49.640]  The point was let's prioritize and do what matters most first.
+[07:49.640 --> 07:53.360]  It's kind of what I've been preaching the whole time.
+[07:53.360 --> 07:57.400]  In your area, wherever that is, do what matters first.
+[07:57.400 --> 08:00.280]  Don't try to do it all at once.
+[08:00.280 --> 08:03.320]  We're going to have to work our way through.
+[08:03.320 --> 08:04.320]  That was the point.
+[08:04.320 --> 08:05.320]  Yeah.
+[08:05.320 --> 08:12.120]  I don't know if this is a follow-up issue, in the way you described it, it doesn't seem
+[08:12.120 --> 08:17.120]  controversial, but I will say there was a big discussion and a recent initiative from
+[08:17.120 --> 08:22.520]  Sid and other leaders that we should heavily prioritize dog fooding because there are teams
+[08:22.520 --> 08:27.920]  within the company that were not utilizing our features and we wanted to make sure that
+[08:27.920 --> 08:30.640]  the product team was responsive to requests from them.
+[08:30.640 --> 08:31.640]  Yep.
+[08:31.640 --> 08:35.080]  It's a little bit different than saying it's about our internal opinion.
+[08:35.080 --> 08:37.600]  We had always said we should validate it.
+[08:37.600 --> 08:41.560]  That clarification is good that we want to make sure it's about us saying this is in
+[08:41.560 --> 08:44.360]  line with where we want to take the product and where we're hearing customers, but if
+[08:44.360 --> 08:52.480]  an internal customer wants it, the original thinking was that we should emphasize it.
+[08:52.480 --> 08:57.080]  If the intent was to make sure we were just clarifying that same position, but if we're
+[08:57.080 --> 09:01.080]  saying actually we should pull back from the push for more dog fooding, I think that's
+[09:01.080 --> 09:04.080]  maybe a different idea.
+[09:04.080 --> 09:06.800]  Please don't conflate the two.
+[09:06.800 --> 09:08.600]  We very much still want a dog food.
+[09:08.600 --> 09:14.000]  I think the point is when you're thinking of customers for your thing, think of our
+[09:14.000 --> 09:17.800]  internal teams early.
+[09:17.800 --> 09:19.280]  You can get great feedback from them.
+[09:19.280 --> 09:23.600]  They have an incentive to work with you.
+[09:23.600 --> 09:28.920]  There's very little risk in rolling out things early to them, so treat them like a customer
+[09:28.920 --> 09:34.000]  and think of our internal teams early as you're rolling something out.
+[09:34.000 --> 09:42.760]  That's still very much the message, but let's not over-rotate on internal feedback or internal
+[09:42.760 --> 09:43.760]  opinion.
+[09:43.760 --> 09:48.800]  Let's still seek external feedback, too, because that's just one customer of many.
+[09:48.800 --> 09:49.800]  Cool.
+[09:49.800 --> 09:50.800]  Great.
+[09:50.800 --> 09:51.800]  Make sense?
+[09:51.800 --> 09:52.800]  Okay.
+[09:52.800 --> 09:53.800]  Yeah.
+[09:53.800 --> 09:54.800]  It does.
+[09:54.800 --> 09:55.800]  All right.
+[09:55.800 --> 09:58.960]  2C, customer discovery training coming soon.
+[09:58.960 --> 10:03.960]  Sarah O'Donnell and her team are going to do a bunch of quick videos on a variety of
+[10:03.960 --> 10:07.280]  customer discovery topics, so super excited for that.
+[10:07.280 --> 10:16.860]  They should start dropping any day now, I think, starting this week, and so we'll release
+[10:16.860 --> 10:18.360]  those to you as they come out.
+[10:18.360 --> 10:25.560]  We'll embed them in the how we work description on our team page as well.
+[10:25.560 --> 10:28.000]  All right.
+[10:28.000 --> 10:30.120]  Number 3, 12-2, kickoff feedback.
+[10:30.120 --> 10:32.120]  Josh, thanks for leading the charge.
+[10:32.120 --> 10:40.680]  I thought you did a good job of emceeing and sort of adding color commentary in between.
+[10:40.680 --> 10:44.120]  I thought the screenshots definitely helped.
+[10:44.120 --> 10:46.840]  There were a bunch that did not have them.
+[10:46.840 --> 10:48.400]  I was wondering why.
+[10:48.400 --> 10:52.000]  Is it just because we're not there yet on many of these?
+[10:52.000 --> 10:53.000]  Yeah?
+[10:53.000 --> 10:54.000]  Okay.
+[10:54.000 --> 10:55.000]  Yeah.
+[10:55.000 --> 11:00.320]  I mean, some of the commentary, I don't know, or Nicole added that, yeah, many of the issues
+[11:00.320 --> 11:05.800]  were saying we're going to do UX front-end and back-end in the same iteration, so it
+[11:05.800 --> 11:11.840]  hasn't started, and in some, I can think of a number where there just aren't appropriate
+[11:11.840 --> 11:17.960]  screenshots, or at least there weren't screenshots or mock-ups created in advance for the purposes
+[11:17.960 --> 11:21.360]  of front-end working on it, because front-end was going to work on it without a mock-up.
+[11:21.360 --> 11:22.360]  Okay.
+[11:22.360 --> 11:27.440]  I'd love to get to where we're a bit ahead, so that we'll have more of these earlier and
+[11:27.440 --> 11:33.320]  hopefully the customer discovery flow will get us further ahead on that.
+[11:33.320 --> 11:38.400]  In my case, some of the features also just have no UX component, as in no UI component
+[11:38.400 --> 11:39.400]  that could be screenshot-ed.
+[11:39.400 --> 11:40.400]  Understood.
+[11:40.400 --> 11:41.400]  Yeah.
+[11:41.400 --> 11:44.760]  I don't expect everyone, I mean, use your judgment.
+[11:44.760 --> 11:50.760]  If it doesn't need it, fine, but where we do need design, it'd be great to get at least
+[11:50.760 --> 11:58.360]  a month ahead, so as we roll into dev, we have that to offer them.
+[11:58.360 --> 12:02.080]  Scott, just a quick question to you.
+[12:02.080 --> 12:08.360]  How do you feel about presenting balsamic or super lo-fi mock-ups on the kickoff call?
+[12:08.360 --> 12:10.400]  I'm fine with that.
+[12:10.400 --> 12:11.400]  Okay.
+[12:11.400 --> 12:15.960]  Because that could be an option too for PMs that are waiting for UX to work in the same
+[12:15.960 --> 12:21.680]  sprint, and I know that plan's done a pretty good job, at least in the past, of running
+[12:21.680 --> 12:24.520]  ahead of UX and saying, like, hey, this is kind of what I think I want this to look like
+[12:24.520 --> 12:28.760]  before spinning UX cycles on making a more hi-fi mock-up.
+[12:28.760 --> 12:29.760]  Yeah.
+[12:29.760 --> 12:37.640]  If you think it does a better job of describing it than the issue itself, then use it.
+[12:37.640 --> 12:40.240]  I think in some cases, a picture can be worth a thousand words.
+[12:40.240 --> 12:45.560]  I mean, no matter how many words you throw at something, for example, one of my things
+[12:45.560 --> 12:52.480]  that I requested or I reported on for the kickoff meeting was expanding the Epic view
+[12:52.480 --> 12:56.240]  in the roadmap, and those are basically just a bunch of buzzwords put together that you're
+[12:56.240 --> 12:59.080]  like, okay, what does that mean, expand Epic in a row?
+[12:59.080 --> 13:04.200]  I literally thought on that one for 20 minutes saying, how do I make this issue title more
+[13:04.200 --> 13:08.760]  descriptive for customer value, and it just came down to, that is the functionality we're
+[13:08.760 --> 13:09.760]  adding.
+[13:09.760 --> 13:10.760]  What does that mean?
+[13:10.760 --> 13:11.760]  Oh, here's the screenshot.
+[13:11.760 --> 13:12.760]  You can see that we're going to add a drop-down.
+[13:12.760 --> 13:17.320]  You can see the issues in children Epics that are attached to that Epic, and in that case,
+[13:17.320 --> 13:21.080]  I was like, I'm so thankful I have a screenshot, even though that one is actually not a hi-fi
+[13:21.080 --> 13:23.080]  mock-up.
+[13:23.080 --> 13:24.080]  It's more lo-fi.
+[13:24.080 --> 13:26.280]  It was a little bit pieced together.
+[13:26.280 --> 13:27.280]  Yeah.
+[13:27.280 --> 13:33.680]  I think in general, there's a lot more value if we can show something like that.
+[13:33.680 --> 13:36.200]  Product managers, you can consider that.
+[13:36.200 --> 13:40.920]  You should feel free that you're empowered to take a tool that you're comfortable with,
+[13:40.920 --> 13:46.680]  and it might even be just like Google Slides and make something that gets you at least
+[13:46.680 --> 13:50.480]  a part of the way there in terms of what you want the experience to look like.
+[13:50.480 --> 13:51.480]  Yep.
+[13:51.480 --> 13:52.480]  Perfect.
+[13:52.480 --> 13:55.160]  3C, I thought the talk track shifted.
+[13:55.160 --> 13:57.360]  It was definitely more problem-focused.
+[13:57.360 --> 14:02.160]  I noticed a number of speakers really trying to zero in on that, which is perfect.
+[14:02.160 --> 14:09.760]  Some of them could have been more problem-focused, I thought, so just keep considering that as
+[14:09.760 --> 14:15.960]  you... It's important to be able to pitch these things in ways that people that aren't
+[14:15.960 --> 14:18.840]  close to it can understand.
+[14:18.840 --> 14:19.840]  Just think about that.
+[14:19.840 --> 14:24.240]  How do I explain this to someone who's cold, who doesn't know a darn thing about this?
+[14:24.240 --> 14:27.080]  Why should they care?
+[14:27.080 --> 14:32.040]  Getting that crystal in your thinking is going to be important no matter what, so it's time
+[14:32.040 --> 14:33.040]  well spent.
+[14:33.040 --> 14:34.040]  Hey, Scott.
+[14:34.040 --> 14:35.040]  This is Karina.
+[14:35.040 --> 14:38.280]  Just to add to that, if you don't mind.
+[14:38.280 --> 14:43.520]  I think this has always been a challenge in product even before I've joined GitLab for
+[14:43.520 --> 14:49.880]  many people is how to get there on some of this terminology when those of us have deep
+[14:49.880 --> 14:53.340]  technical background.
+[14:53.340 --> 14:59.240]  My thought would be, is there a way that you can start sharing or applauding good examples
+[14:59.240 --> 15:04.520]  of this so that the product team can start to ruminate on this and develop that skill
+[15:04.520 --> 15:07.000]  if we're not there yet?
+[15:07.000 --> 15:14.360]  Yeah, I thought Lucas were very well framed up.
+[15:14.360 --> 15:20.820]  Those two popped out at me as, yeah, that's the problem we're trying to solve.
+[15:20.820 --> 15:21.820]  Check those out.
+[15:21.820 --> 15:25.040]  I'll look through for some other examples.
+[15:25.040 --> 15:30.640]  Thank you for the suggestion.
+[15:30.640 --> 15:35.880]  All right, 3D, we went long.
+[15:35.880 --> 15:42.360]  We just have a ton of speakers, which I love that lots of people get a chance to speak,
+[15:42.360 --> 15:52.080]  so I'm good with that, but we're going to have to limit the number of items, probably,
+[15:52.080 --> 15:54.120]  so it looks like there's some other ideas in here.
+[15:54.120 --> 15:55.120]  Perhaps themes.
+[15:55.120 --> 15:59.880]  Yeah, I mean, if there are some that relate to each other, you could tell a story.
+[15:59.880 --> 16:05.640]  Hey, we're trying to prove this, and then A, B, and C tie back to it.
+[16:05.640 --> 16:10.920]  I think it's okay to be pretty brief in your description as long as you're hitting what
+[16:10.920 --> 16:15.080]  it is, and if somebody's really interested, they can dive deep.
+[16:15.080 --> 16:17.280]  Thematic is a good idea.
+[16:17.280 --> 16:23.480]  Recorded video, if you really want to go deep, maybe it's technically complex.
+[16:23.480 --> 16:27.800]  That's a great idea, and then you can just cover the customer value at a high level and
+[16:27.800 --> 16:32.640]  leave the detail to the video.
+[16:32.640 --> 16:36.000]  Watch statistics, I think Josh looked this up last time.
+[16:36.000 --> 16:42.920]  I think he said there were 1,000, oh, there we go, Kenny's putting them in, so somewhere
+[16:42.920 --> 16:50.480]  between 500 and 1,000.
+[16:50.480 --> 16:55.560]  To kind of add to the time, just a feedback, I was timing myself this time, and I had two
+[16:55.560 --> 17:01.200]  features listed, and I hit three minutes and 14 seconds.
+[17:01.200 --> 17:09.400]  I think somebody mentioned doing two or coupling it down.
+[17:09.400 --> 17:14.040]  It's interesting that I landed there with the two that I chose.
+[17:14.040 --> 17:19.000]  That feels about average, but we've had how many speakers?
+[17:19.000 --> 17:23.920]  We'll probably have to be a couple minutes max per person.
+[17:23.920 --> 17:26.120]  Eric pointed this out in the next line.
+[17:26.120 --> 17:33.320]  I do think we are due for a rethink of how we're doing the kickoff, because next month
+[17:33.320 --> 17:39.360]  we're going to have 25 people trying to give content, and even at two minutes you're already
+[17:39.360 --> 17:40.360]  gone.
+[17:40.360 --> 17:42.440]  Maybe we expand it.
+[17:42.440 --> 17:46.960]  I will give a shout out for Jason, I know because he's on paternity leave, he created
+[17:46.960 --> 17:53.480]  a video, but I think the original intent of the kickoff was actually just as a company,
+[17:53.480 --> 17:58.880]  we had a retrospective immediately followed by a kickoff, and we decided to post that
+[17:58.880 --> 17:59.880]  on YouTube.
+[17:59.880 --> 18:05.120]  We now post a whole bunch of content on YouTube, so just having what you would normally do
+[18:05.120 --> 18:11.400]  for your grooming or kickoff within your individual group posted to YouTube and us maybe having
+[18:11.400 --> 18:15.800]  a specific channel for people who wanted to follow it.
+[18:15.800 --> 18:19.900]  We should discuss it in an issue and come up with something I do think prior to next
+[18:19.900 --> 18:22.420]  release kickoff.
+[18:22.420 --> 18:26.080]  Just to evaluate alternatives to the format.
+[18:26.080 --> 18:27.080]  Yeah.
+[18:27.080 --> 18:33.720]  I mean, even if we said every person has one minute, I feel like we're doing a disservice
+[18:33.720 --> 18:39.960]  because we're now highlighting much less, because we feel like we have a time constraint
+[18:39.960 --> 18:46.720]  and need to keep it into one synchronous 30-minute block, and there's a need to do that.
+[18:46.720 --> 18:47.720]  Okay.
+[18:47.720 --> 18:55.480]  Plus one to the revamping it, I think we're trying to... It's like we've got so many
+[18:55.480 --> 19:00.960]  jobs right now that we're not doing a good job at any particular one of them, but I think
+[19:00.960 --> 19:04.600]  that feels the most important customer is our internal, and it's just like communicating
+[19:04.600 --> 19:07.900]  internally about... Because people attend that thing, man.
+[19:07.900 --> 19:13.400]  We had like 50 people on a Zoom call alone, not even considering YouTube, and people were
+[19:13.400 --> 19:19.560]  asking about what happened to YouTube link and things like that, so it's well attended
+[19:19.560 --> 19:20.560]  internally.
+[19:20.560 --> 19:29.200]  I think there's alignment, let alone the marketing value of sort of like a release.
+[19:29.200 --> 19:35.360]  For customer customers, it kind of feels like you're better off having a webinar or live
+[19:35.360 --> 19:38.800]  stream on the release day or something like that.
+[19:38.800 --> 19:39.800]  Right.
+[19:39.800 --> 19:47.320]  Yeah, maybe the externally focused one would be more about what we just shipped.
+[19:47.320 --> 19:51.860]  There was a webinar that used to happen called Release Radar.
+[19:51.860 --> 19:56.440]  I think I participated in a couple of those, three of them back to back, and they were
+[19:56.440 --> 20:02.880]  pretty poorly attended from what my experience was, and I think they actually got ended by
+[20:02.880 --> 20:06.360]  the product marketing team for that reason.
+[20:06.360 --> 20:11.920]  I'm sure someone from that team could actually give feedback, but I think one thing about
+[20:11.920 --> 20:17.880]  the time limit is it's really hard to motivate problems in a short amount of time, particularly
+[20:17.880 --> 20:19.880]  when they're very technical.
+[20:19.880 --> 20:24.640]  As product categories grow in maturity and sophistication, the problems become more and
+[20:24.640 --> 20:30.080]  more specific that we're solving, and so motivating those specific reasons and why we're going
+[20:30.080 --> 20:37.280]  after this specific tiny piece of a very mature category, it's hard to do in 30 seconds in
+[20:37.280 --> 20:38.280]  a way.
+[20:38.280 --> 20:44.960]  So if we're wanting to do that better, that's going to put more and more pressure on communicating
+[20:44.960 --> 20:50.360]  a reasonable number of items, I think.
+[20:50.360 --> 20:51.880]  Okay.
+[20:51.880 --> 20:53.160]  Thank you all for the feedback.
+[20:53.160 --> 20:58.880]  I like the idea of creating an issue and perhaps tweaking the format before next month.
+[20:58.880 --> 21:04.680]  I also like the idea of asking internal and external constituents what they like or don't
+[21:04.680 --> 21:05.920]  like about the format.
+[21:05.920 --> 21:06.920]  Yeah.
+[21:06.920 --> 21:09.280]  Just one final thought on that.
+[21:09.280 --> 21:12.320]  I love that it's a half an hour.
+[21:12.320 --> 21:20.980]  Might almost even take particular categories over lengthening the time, as an example,
+[21:20.980 --> 21:24.400]  just because I had the feeling that if you want to watch it consistently, it's going
+[21:24.400 --> 21:26.840]  to be on that blog, but that's just me.
+[21:26.840 --> 21:34.720]  So if other customers are saying they would like the larger block, then that's the right
+[21:34.720 --> 21:35.720]  way to go.
+[21:35.720 --> 21:38.600]  So that's where I'd love to get feedback in some fashion, to say, okay, here's how we
+[21:38.600 --> 21:39.600]  should change it.
+[21:39.600 --> 21:43.240]  But we clearly have gone breadth-wise, we've gone so much broader that it's going to be
+[21:43.240 --> 21:49.200]  hard to cover all those topics in a quick amount.
+[21:49.200 --> 21:50.200]  Okay.
+[21:50.200 --> 21:52.880]  Thanks, Kenny, for starting the issue.
+[21:52.880 --> 21:56.400]  James, over to you for number four.
+[21:56.400 --> 22:00.800]  Yeah, I just thought I'd share this.
+[22:00.800 --> 22:07.360]  I think many on this call haven't heard Mark Cumspat speak about product discovery sprints,
+[22:07.360 --> 22:12.760]  but he advocated for this quite a number of times previously, from his experience running
+[22:12.760 --> 22:15.440]  these at a prior company.
+[22:15.440 --> 22:20.120]  So the idea is kind of different to a UX discovery sprint.
+[22:20.120 --> 22:25.560]  I think Fabian linked one of the books about that, where it's really focused on UX iteration
+[22:25.560 --> 22:26.840]  and research.
+[22:26.840 --> 22:31.760]  The product discovery sprint is more focused on actually building something, iterating
+[22:31.760 --> 22:36.920]  on something that's built, and trying to get to some sort of MVC really quickly by trying
+[22:36.920 --> 22:39.400]  to make the process more synchronous.
+[22:39.400 --> 22:46.160]  So the source code group is going to try and do that around file-by-file diff navigation
+[22:46.160 --> 22:53.240]  to solve performance and usability problems in 12.3.
+[22:53.240 --> 22:57.120]  And I thought it'd be interesting to share that, because internally we've been wrestling
+[22:57.120 --> 23:02.440]  with how to make this work well in an async slash remote environment.
+[23:02.440 --> 23:08.480]  So we're looking at trying to confine the participants in a specific time zone so that
+[23:08.480 --> 23:12.000]  we can all be available with a significant amount of overlap.
+[23:12.000 --> 23:17.200]  But that's also difficult, because it kind of excludes automatically 50% of the team
+[23:17.200 --> 23:21.260]  who are just geographically remote from any of their peers.
+[23:21.260 --> 23:25.480]  We only have one UX designer that's only available in the European time zone.
+[23:25.480 --> 23:27.840]  So some interesting challenges there.
+[23:27.840 --> 23:32.800]  If it goes well, we're going to try and replicate it a release or two later on a different problem
+[23:32.800 --> 23:36.400]  that is also really complicated and hard and we've got to make progress on quickly.
+[23:36.400 --> 23:38.120]  But I'll share any findings we have.
+[23:38.120 --> 23:42.840]  And if anyone's interested in discussing that with me more, put a meeting in my calendar
+[23:42.840 --> 23:45.400]  or drop me a message.
+[23:45.400 --> 23:47.440]  This is great, James.
+[23:47.440 --> 23:53.480]  By the way, I think the UX team is going to run, well, let me just say we have the option
+[23:53.480 --> 23:59.200]  to run one with Google Ventures, who's one of our investors in that sprint book that
+[23:59.200 --> 24:04.040]  Fabian linked to, was written by a guy from GV.
+[24:04.040 --> 24:06.920]  They did hundreds of these things for their clients.
+[24:06.920 --> 24:08.360]  They know what they're doing.
+[24:08.360 --> 24:14.160]  So if we get a chance to do one with them, we should.
+[24:14.160 --> 24:19.640]  We're going to have to figure out how to do it within our basic model though.
+[24:19.640 --> 24:22.960]  So whatever you learn from yours, James, please feed that back.
+[24:22.960 --> 24:23.960]  Super interesting topic.
+[24:23.960 --> 24:29.160]  I think if we could get good at this asynchronously, that would be a breakthrough.
+[24:29.160 --> 24:30.160]  Yeah.
+[24:30.160 --> 24:34.680]  I think one other interesting challenge is that the sprint sort of terminology is kind
+[24:34.680 --> 24:40.360]  of challenging and like it's not sustainable to be doing design sprints or discovery sprints
+[24:40.360 --> 24:41.360]  on a daily basis.
+[24:41.360 --> 24:47.840]  Whether or not we were in person or not, it's not scalable to actually sprint all the time.
+[24:47.840 --> 24:53.880]  So choosing the right tasks, choosing the right time is, I think, one of the other challenges.
+[24:53.880 --> 24:54.880]  I agree.
+[24:54.880 --> 24:55.880]  Yeah.
+[24:55.880 --> 25:00.160]  You don't want to do this for everything because, well, if you follow to the letter, it takes
+[25:00.160 --> 25:07.200]  a whole week and you're totally dedicated to it, which is amazing for focus sake, but
+[25:07.200 --> 25:10.360]  you can't get anything else done.
+[25:10.360 --> 25:15.200]  So depending on how we structure this, it would need to be done for things that are
+[25:15.200 --> 25:22.200]  really big unknowns where dedicating a big chunk of time like that is worth it and not
+[25:22.200 --> 25:25.960]  everything clears that bar.
+[25:25.960 --> 25:34.160]  I think it's also most relevant for stages that are in various stages in the very beginning.
+[25:34.160 --> 25:39.760]  Kind of like that Tyrone was like one of their biggest example for Google Ventures when they
+[25:39.760 --> 25:44.560]  obviously like solving clinical trials for the world is like a super complex problem.
+[25:44.560 --> 25:48.000]  So they would just figure out what is this thing that we can do so that we can start
+[25:48.000 --> 25:49.000]  getting there.
+[25:49.000 --> 25:54.880]  And I think these are the sort of problems that the design sprint is useful.
+[25:54.880 --> 25:59.600]  We used it pretty successfully at my last company around pricing and packaging stuff.
+[25:59.600 --> 26:02.740]  I ran a bunch of interviews with customers on that.
+[26:02.740 --> 26:08.440]  So I've seen it work.
+[26:08.440 --> 26:11.880]  All right.
+[26:11.880 --> 26:15.080]  Okay Christopher, number five.
+[26:15.080 --> 26:20.120]  Yeah just want to call out we've over the past month, we've had a significant number
+[26:20.120 --> 26:28.060]  of outages related to dot com and that affected at least one customer revenue potential and
+[26:28.060 --> 26:33.280]  because of that, we've had some focus from an exec leadership perspective.
+[26:33.280 --> 26:37.760]  So I encourage everybody to look at that document and kind of look through it and particularly
+[26:37.760 --> 26:41.680]  as a couple of things from an engineering perspective, make you aware of one is we started
+[26:41.680 --> 26:48.840]  an infrastructure to development board where we're going to start matching issues up and
+[26:48.840 --> 26:54.320]  trying to make sure that if those get prioritized highly where appropriate, particularly for
+[26:54.320 --> 26:59.320]  anything that affects performance around these issues.
+[26:59.320 --> 27:04.960]  The other issue that I put in there was one around that's listed specifically, which is
+[27:04.960 --> 27:08.620]  around the fact of prioritizing P performance availability work.
+[27:08.620 --> 27:15.200]  So one of the significant features of this particular recent outage last week was that
+[27:15.200 --> 27:18.560]  the Redis server apparently can't handle the load anymore.
+[27:18.560 --> 27:21.440]  And we started digging into it, we found a bunch of stuff that we hadn't checked like
+[27:21.440 --> 27:26.440]  for instance, as an example, our J unit tests were basically going and getting cached and
+[27:26.440 --> 27:29.840]  there was no limit on the number of unit tests that could actually be cached.
+[27:29.840 --> 27:33.520]  So we were getting these like blocks of like several megabytes of data that had to basically
+[27:33.520 --> 27:35.400]  be transferred around in Redis.
+[27:35.400 --> 27:40.360]  That's really what's affecting its performance overall from a caching service perspective.
+[27:40.360 --> 27:45.120]  So consequently, Scott, I send that to you, I hope that's okay, because it feels like
+[27:45.120 --> 27:50.120]  you need to help out in regards to the fact of how do we best make sure that we get this
+[27:50.120 --> 27:52.440]  kind of systematically going.
+[27:52.440 --> 27:56.080]  And I just want to make sure that everybody was aware and just kind of open up for discussion
+[27:56.080 --> 28:01.520]  if there were any questions or any feedback, early feedback on it from that perspective.
+[28:01.520 --> 28:03.720]  I added some comments to it, Christopher.
+[28:03.720 --> 28:08.240]  Okay, I haven't had a chance to look, I apologize about that.
+[28:08.240 --> 28:13.040]  Can I ask, do we and maybe Mac, this is a question for you, do we categorize performance
+[28:13.040 --> 28:16.520]  issues as bugs?
+[28:16.520 --> 28:21.280]  We do have a performance label, but they should be under under bugs.
+[28:21.280 --> 28:22.280]  Okay.
+[28:22.280 --> 28:29.460]  This is an example where oftentimes the way we would treat performance is a reactionary.
+[28:29.460 --> 28:31.760]  This is trying to think about it more in a proactive way.
+[28:31.760 --> 28:38.000]  So as an example, I'll give a horrible example, but when I worked at Amazon, tags originally
+[28:38.000 --> 28:42.760]  when Amazon was created, tags were, they were expecting them just to label certain instances
+[28:42.760 --> 28:43.760]  and that was it.
+[28:43.760 --> 28:47.240]  And it turns out that all customers started using like 20 and 30 or 50 tags and they're
+[28:47.240 --> 28:48.240]  like, what the heck's going on?
+[28:48.240 --> 28:51.400]  And they realized tags were being used to basically assure environmental information
+[28:51.400 --> 28:56.160]  so they could put the same drop of code on two different VMs and they could behave differently
+[28:56.160 --> 29:00.360]  based on the tag, which was a total novel way for customers to use it.
+[29:00.360 --> 29:03.640]  So then they had to basically limit the number of tags that they could use because it wasn't
+[29:03.640 --> 29:06.240]  scaling with the system effectively.
+[29:06.240 --> 29:09.680]  So like, this is kind of another example where like, I think we got to start thinking in
+[29:09.680 --> 29:15.200]  terms of, you know, like when we create something new, a new feature, a piece of functionality,
+[29:15.200 --> 29:17.480]  like what's the cost associated with that, right?
+[29:17.480 --> 29:22.640]  Because like it does cost some something internal and I'm not asking product managers to necessarily
+[29:22.640 --> 29:26.760]  think in terms of the exact bytes, but I am starting to think in terms of like, you know,
+[29:26.760 --> 29:28.080]  what are the expectations around it?
+[29:28.080 --> 29:33.080]  Because like, as an example, if we went back and looked at G unit tests and reporting,
+[29:33.080 --> 29:36.760]  you know, if we said unlimited, that's, you know, that's a tough engineering call, right?
+[29:36.760 --> 29:39.960]  Particularly, I guess it's free right now for customers.
+[29:39.960 --> 29:41.480]  So this is my understanding.
+[29:41.480 --> 29:43.960]  We also don't have a number of repos mirroring.
+[29:43.960 --> 29:47.240]  We don't have a limit on that and that seems dangerous.
+[29:47.240 --> 29:54.760]  Yeah, so I guess I would comment, you know, I think the product team is expected to prioritize
+[29:54.760 --> 29:58.840]  all things and to understand them deeply, whether they're a security issue or performance
+[29:58.840 --> 29:59.840]  concern.
+[29:59.840 --> 30:02.760]  I think what you're highlighting is in order to be proactive.
+[30:02.760 --> 30:08.200]  I don't know if the product team would immediately know the impact of a proposed change, but
+[30:08.200 --> 30:15.000]  maybe that's an opportunity for our infrastructure or SRE stable counterparts to be involved
+[30:15.000 --> 30:19.480]  in vetting and looking at issues early in the pipeline to decide whether or not they
+[30:19.480 --> 30:20.480]  would.
+[30:20.480 --> 30:24.680]  Yeah, or let's say we're implementing a feature like, let's say we were implementing mirroring
+[30:24.680 --> 30:25.680]  from scratch.
+[30:25.680 --> 30:28.840]  Like, the first question we should be asking is, is like, how many, how many mirrors is
+[30:28.840 --> 30:32.520]  a customer expected to be able to support and what I want to start charging for if they
+[30:32.520 --> 30:36.320]  get above a certain limit and, you know, and right now we don't.
+[30:36.320 --> 30:41.320]  And you could argue that scaling is just as much a reason for customers to start paying
+[30:41.320 --> 30:44.320]  us as feature sets.
+[30:44.320 --> 30:49.680]  That's kind of the argument I would be making, because those things cost money, like whether
+[30:49.680 --> 30:51.680]  we like to admit it or not.
+[30:51.680 --> 30:56.080]  Yeah, Christopher, I would agree with you on what you're trying to sort of shape up and
+[30:56.080 --> 31:03.720]  call out here in the sense of, you know, going through pages, for example, performance of
+[31:03.720 --> 31:07.680]  getting those pages loaded is not great.
+[31:07.680 --> 31:13.920]  And I don't know if we set out originally to track some of those performance things.
+[31:13.920 --> 31:18.360]  But I think that performance, and to your point, Kenny, I think performance should be
+[31:18.360 --> 31:24.480]  somewhere incorporated as we move forward and something we should be thinking about
+[31:24.480 --> 31:28.520]  for scalability across the board.
+[31:28.520 --> 31:34.520]  Because it's just as important as bringing forth that really cool thing to them, is that
+[31:34.520 --> 31:41.520]  that really cool thing works and people will stay there to use it.
+[31:41.520 --> 31:46.520]  I think just as a side note, I think we have something, the product handbook that I read
+[31:46.520 --> 31:54.440]  a couple days ago on performance, something like fast applications are always more usable.
+[31:54.440 --> 31:56.880]  And I think that's definitely important.
+[31:56.880 --> 32:02.400]  And I also think that GitLab.com is massive, I think we have 4 million users.
+[32:02.400 --> 32:08.360]  And for example, for Geo, I know that only by actually interacting with the infrastructure,
+[32:08.360 --> 32:14.320]  we are getting feedback on some of the performance bottlenecks that we are just not seeing otherwise.
+[32:14.320 --> 32:17.920]  And so I think that's actually also really valuable.
+[32:17.920 --> 32:23.760]  And in that regard, maybe also, like, again, you know, dogfooding, these things helps.
+[32:23.760 --> 32:28.240]  And I think with the combination of CD, we may hit a lot of those things at the moment.
+[32:28.240 --> 32:31.520]  Yeah, and the dogfooding thing on that front is a little confusing to me.
+[32:31.520 --> 32:36.280]  I met with Marin to talk about that.
+[32:36.280 --> 32:42.880]  And there's sort of this mentality of looking at.com first, or leading with.com for scalability.
+[32:42.880 --> 32:49.040]  And I just, it's not really crisp to me where we're going from making sure that we're, you
+[32:49.040 --> 32:53.920]  know, how we approach making sure that we intact scalability for.com if we're starting
+[32:53.920 --> 32:59.760]  with.com or restarting somewhere else from a dogfooding perspective.
+[32:59.760 --> 33:04.320]  I'm pretty sure the handbook says that we're meant to, well, at least the guidelines used
+[33:04.320 --> 33:09.080]  to be that for new features that were meant to be available on GitLab.com and self-hosted
+[33:09.080 --> 33:10.080]  at the same time.
+[33:10.080 --> 33:17.920]  And that there used to be a production ready checklist that I think the engineering team
+[33:17.920 --> 33:18.920]  was responsible for.
+[33:18.920 --> 33:21.800]  I know that for when we launched in Jio, there was a production readiness process that we
+[33:21.800 --> 33:22.800]  had to go through.
+[33:22.800 --> 33:26.920]  And certainly with Giddily, we consider these things on the source code front, we're regularly
+[33:26.920 --> 33:32.000]  considering scale, like moving terabytes of data from the database into object storage
+[33:32.000 --> 33:34.200]  and considering all these sorts of things.
+[33:34.200 --> 33:37.360]  This is very much a feature and should be considered that.
+[33:37.360 --> 33:44.360]  And I think particularly in categories where adoption is still growing and in early stages
+[33:44.360 --> 33:48.920]  of maturity performance, like understandably is less of a concern because there's lower
+[33:48.920 --> 33:49.920]  usage.
+[33:49.920 --> 33:56.120]  So like solving scale at like an enormous level doesn't make sense commercially, like
+[33:56.120 --> 33:57.880]  necessarily when usage is small.
+[33:57.880 --> 34:03.360]  So there is a bit of a juggling act here because we don't want to build a product for billions
+[34:03.360 --> 34:08.920]  of users if there's only, I don't know, 20,000 users experimenting with our newest feature.
+[34:08.920 --> 34:12.000]  So there's an iterative approach that needs to be taken.
+[34:12.000 --> 34:16.840]  But I would agree that particularly coming from a team that's digging out a lot of technical
+[34:16.840 --> 34:20.400]  debt and solving a lot of performance problems all the time, we've probably historically
+[34:20.400 --> 34:25.680]  not been very good at picking the right moment to pay off technical debt and address performance
+[34:25.680 --> 34:28.520]  problems until they become fires.
+[34:28.520 --> 34:36.960]  Yeah, so to that point, just real quick, James, and sorry, Scott, I think some things are
+[34:36.960 --> 34:43.160]  obvious like when we look at our progressive deliveries strategy, I think that we like,
+[34:43.160 --> 34:45.920]  if you look at something like feature flags or something like that, like that's something
+[34:45.920 --> 34:49.320]  that I think is going to be like, I wouldn't imagine that that's not going to be a key
+[34:49.320 --> 34:51.840]  feature that we're going to bring forward.
+[34:51.840 --> 34:58.480]  So I feel like that that should be a gimme on whether adoption has yet struck or not.
+[34:58.480 --> 35:02.160]  But the second thing that is not clear to me, again, when I was interviewing Marin about
+[35:02.160 --> 35:09.000]  dog fooding, is that I noticed that Marin's like, they didn't come to us first.
+[35:09.000 --> 35:13.360]  And so this is not scalable, or this is not usable for us internally.
+[35:13.360 --> 35:17.960]  And so it's like the approach and process moving forward to dog food in the right spots
+[35:17.960 --> 35:23.600]  is not clear to me, or what the best practice has been, or if anybody's cracked that.
+[35:23.600 --> 35:28.640]  I can give a concrete example, because I did a call with Marin a few months back around
+[35:28.640 --> 35:30.640]  confidential merge requests.
+[35:30.640 --> 35:33.000]  So we knew that customers wanted to resolve them.
+[35:33.000 --> 35:37.200]  We knew that we wanted to do that, and we're trying to get rid of dev.gitlab.org.
+[35:37.200 --> 35:42.120]  So I had a video call with him and a bunch of async conversations with like, I've got
+[35:42.120 --> 35:44.180]  these ideas for what a first iteration looks like.
+[35:44.180 --> 35:47.080]  And then we did a few calls and worked through them and worked out which were the things
+[35:47.080 --> 35:48.080]  that needed to happen.
+[35:48.080 --> 35:51.040]  And so we're shipping the first iteration of that in 12.1.
+[35:51.040 --> 35:54.800]  So we coordinated with them, and I spoke with Marin quite a lot to make sure whatever we
+[35:54.800 --> 36:00.160]  were building was useful and would solve the security problems that they had, as well as
+[36:00.160 --> 36:01.160]  our own ones.
+[36:01.160 --> 36:03.800]  So yeah, I agree, it needs to be proactive.
+[36:03.800 --> 36:07.080]  We're not going to ship something that's useful, or that the infrastructure team is going to
+[36:07.080 --> 36:11.280]  want to opt into unless we've had a conversation with them in advance.
+[36:11.280 --> 36:18.040]  All right, it's one 30 second, can I add one last tiny point?
+[36:18.040 --> 36:22.840]  It's sometimes really important for customers as well that we're running it on gitlab.com
+[36:22.840 --> 36:23.840]  before they adopt it.
+[36:23.840 --> 36:29.840]  So one example is we built SSL TLS support in Gitli.
+[36:29.840 --> 36:33.920]  But it's not turned on in gitlab.com, and so the customer that we built it for isn't
+[36:33.920 --> 36:37.800]  using it because they're waiting for our production team to turn it on because they want to see
+[36:37.800 --> 36:43.080]  before they turn it on for their enormous instance, have we actually proven it at the
+[36:43.080 --> 36:46.200]  world's largest GitLab instance scale.
+[36:46.200 --> 36:49.920]  So I think that's one important reason why we always need to make sure that features
+[36:49.920 --> 36:52.320]  are on and are getting used on gitlab.com.
+[36:52.320 --> 36:56.560]  Sorry, I've got a couple of things.
+[36:56.560 --> 37:01.080]  I think we definitely need to have a stronger definition of done as part of our progressives
+[37:01.080 --> 37:02.080]  delivery, right?
+[37:02.080 --> 37:07.000]  And so part of what we've done is it needs to run at scale on gitlab.com successfully
+[37:07.000 --> 37:11.120]  and not blow up the cost model, not blow up performance, and if it does, it's just getting
+[37:11.120 --> 37:16.800]  to be reverted, frankly, and that should be the bar for getting features across the line.
+[37:16.800 --> 37:22.280]  That doesn't mean for new features that have low usage, obviously their impact will be
+[37:22.280 --> 37:25.160]  quite small, but still it needs to be within reason.
+[37:25.160 --> 37:30.320]  I totally agree that you don't want to overbuild on the first iteration for planning for millions
+[37:30.320 --> 37:33.520]  of users because that doesn't make any sense.
+[37:33.520 --> 37:35.120]  But yeah, I think that's one aspect.
+[37:35.120 --> 37:39.600]  I think their aspect is that on your comment Christopher on pricing, and we can maybe have
+[37:39.600 --> 37:45.200]  a follow-up here on a handbook update, but I think it's interesting that customers will
+[37:45.200 --> 37:49.600]  absorb the cost on self-managed of compute.
+[37:49.600 --> 37:57.600]  And so for them, if they want to have a ridiculous number of mirrors, then it's fine because
+[37:57.600 --> 37:58.600]  they're paying for it.
+[37:58.600 --> 37:59.600]  It's our use case.
+[37:59.600 --> 38:00.600]  It's all in their dime.
+[38:00.600 --> 38:03.720]  And so maybe a way to think about this is to have some level of controls you can set
+[38:03.720 --> 38:11.000]  if you want to have some way to control that amount of behavior for when we're covering
+[38:11.000 --> 38:13.200]  the cost of those things.
+[38:13.200 --> 38:16.680]  But yeah, anyways.
+[38:16.680 --> 38:17.680]  Thank you all.
+[38:17.680 --> 38:19.720]  Great topic, Christopher.
+[38:19.720 --> 38:26.680]  Please pile on that issue with thoughts on how to handle this like your suggestion on
+[38:26.680 --> 38:28.800]  definition of done, Josh.
+[38:28.800 --> 38:32.280]  All right, Karina, six and seven.
+[38:32.280 --> 38:39.440]  Yes, so I submitted an MR for the product handbook yesterday, and we're going through
+[38:39.440 --> 38:48.160]  this process of getting more self-organized in the release area and with our engineering
+[38:48.160 --> 38:51.680]  and user design partners.
+[38:51.680 --> 38:57.120]  And one of the things that we recognize, and it's documented in the issue below in number
+[38:57.120 --> 39:03.280]  seven, is one, our delivery percentage has not been great, which you've heard me talk
+[39:03.280 --> 39:04.280]  about.
+[39:04.280 --> 39:10.080]  But it has been ramped that we need to self-organize around some method, and what we found in sort
+[39:10.080 --> 39:17.240]  of the last prioritization for release scope is that we have a lot of oversized issues
+[39:17.240 --> 39:29.120]  and features that honestly need a beat for a release to go through user research, maybe
+[39:29.120 --> 39:33.960]  look at the code if they've never seen the code, reviewed that piece of code before,
+[39:33.960 --> 39:37.600]  or make some recommendations on the best way to solve.
+[39:37.600 --> 39:44.640]  So I put some thinking around that dual-track mindset, dual-track agile kind of launching
+[39:44.640 --> 39:48.760]  off of what user experience has recently updated for dual-track agile.
+[39:48.760 --> 39:53.400]  So feedback on that, and then the second piece is that this experiment we're running is we're
+[39:53.400 --> 40:00.840]  leveraging semi-dual-track agile approach just to organize our conversation, how we
+[40:00.840 --> 40:09.800]  open issues for areas that we need a discovery beat versus presenting an issue that is actually
+[40:09.800 --> 40:11.660]  ready for delivery.
+[40:11.660 --> 40:17.540]  One thing that was interesting, Scott, we were talking about just the kickoff call and
+[40:17.540 --> 40:22.760]  having some images and more to share.
+[40:22.760 --> 40:26.520]  That's definitely where I think we'd like to be with release is getting ahead of that
+[40:26.520 --> 40:31.600]  curve and really having some concrete understanding and prototypes of what we're trying to present
+[40:31.600 --> 40:32.600]  and deliver.
+[40:32.600 --> 40:37.440]  But when we looked at sort of kind of going through that process, this is really for complex
+[40:37.440 --> 40:45.280]  things or heavy lifting, because, you know, it is about a 20 to 30-day lead time to commit
+[40:45.280 --> 40:47.280]  to release.
+[40:47.280 --> 40:55.080]  And so we have some targets to improve, you know, our hypothesis on leveraging this.
+[40:55.080 --> 40:59.880]  You can follow it there if you have input, but they kind of tie together, but I love
+[40:59.880 --> 41:02.600]  input on the handbook piece.
+[41:02.600 --> 41:05.240]  Thank you, Karina, for creating these and sharing these.
+[41:05.240 --> 41:08.480]  I think you're on the right track.
+[41:08.480 --> 41:16.640]  In parallel, I've been working with Christopher and Eric and Christy to outline a high-level
+[41:16.640 --> 41:21.520]  description of our software development lifecycle, which will have two tracks.
+[41:21.520 --> 41:26.560]  This is sort of competing content there, or maybe they could be merged.
+[41:26.560 --> 41:27.920]  So thank you for doing this.
+[41:27.920 --> 41:33.880]  I may slow roll it a little bit to make sure that we have one way of describing the flow
+[41:33.880 --> 41:42.240]  we'd like to go through, but thank you very much for getting it kicked off.
+[41:42.240 --> 41:44.440]  Any questions for Karina?
+[41:44.440 --> 41:48.880]  If not, Josh, over to you.
+[41:48.880 --> 41:51.760]  Yeah, just a super basic announcement.
+[41:51.760 --> 41:56.520]  I just went through and renamed the Promise Label to Planning Priority.
+[41:56.520 --> 41:59.600]  General meaning is largely the same, although we shouldn't be promising features, and so
+[41:59.600 --> 42:06.280]  this is just a way to flag it, and that way it's a reminder for PMs that this issue had
+[42:06.280 --> 42:11.000]  some important select conditional dependencies, and so just be aware of it so you can feel
+[42:11.000 --> 42:12.000]  free to use it.
+[42:12.000 --> 42:16.640]  I did note in the label text that it should only be applied by product managers, and in
+[42:16.640 --> 42:20.120]  particular, the responsible product manager for that section.
+[42:20.120 --> 42:24.200]  So it shouldn't get applied by TAMs or anyone else.
+[42:24.200 --> 42:25.200]  Awesome.
+[42:25.200 --> 42:27.680]  I like that terminology a lot better.
+[42:27.680 --> 42:30.040]  Thank you, Josh.
+[42:30.040 --> 42:32.560]  All right.
+[42:32.560 --> 42:33.560]  Five minutes to spare.
+[42:33.560 --> 42:34.560]  Anything else?
+[42:34.560 --> 42:38.560]  If not, have a great Tuesday.
+[42:38.560 --> 42:39.560]  Adios.
+[42:39.560 --> 43:00.080]  Thanks.
