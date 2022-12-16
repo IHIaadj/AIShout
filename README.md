@@ -9,3 +9,5 @@ our goal is to make it easier for you to create a meeting minute based on the or
 ![](images/1.png)
 
 ## Libraries/tools
+
+![](images/1.png)
