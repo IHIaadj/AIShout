@@ -18,8 +18,13 @@ our goal is to make it easier for you to create a meeting minute based on the or
 ## Libraries/tools
 
 ### Whisper
-![](images/whisper.jpg)
-
+Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web.
 ![](images/whisper-white.svg)
+
+https://openai.com/blog/whisper/
+
 ### GPT3
+GPT-3 is trained to generate realistic human text. GPT-3 has been used to create articles, poetry, stories, news reports and dialogue using just a small amount of input text that can be used to produce large amounts of quality copy.
 ![](images/cover7.jpg)
+
+https://openai.com/blog/gpt-3-apps/
