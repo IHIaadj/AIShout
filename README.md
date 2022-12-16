@@ -19,5 +19,7 @@ our goal is to make it easier for you to create a meeting minute based on the or
 
 ### Whisper
 ![](images/whisper.jpg)
+
+![](images/whisper-white.svg)
 ### GPT3
 ![](images/cover7.jpg)
